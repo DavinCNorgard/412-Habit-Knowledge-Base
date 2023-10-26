@@ -46,7 +46,5 @@
 
 ![[Pasted image 20231025165711.png]]
 
+ 
 
-## Relevance to Cognitive Augmentation
-
-- The HabitStar is a clear example of a computing system that serves aims to serve the user. This 
