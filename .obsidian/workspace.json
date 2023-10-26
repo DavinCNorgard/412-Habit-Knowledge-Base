@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a0366b3f01169579",
+        "id": "5c95cdb5d8ff2da4",
         "type": "tabs",
         "children": [
           {
-            "id": "e053cedb888035c6",
+            "id": "3f111155c0374828",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "412 project notes/Medical/Posture/Devices.md",
+                "file": "412 project notes/Medical/Drug Adherence/Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "412 project notes/Medical/Posture/Devices.md",
+                "file": "412 project notes/Medical/Drug Adherence/Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "412 project notes/Medical/Posture/Devices.md",
+                "file": "412 project notes/Medical/Drug Adherence/Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "412 project notes/Medical/Posture/Devices.md"
+                "file": "412 project notes/Medical/Drug Adherence/Research.md"
               }
             }
           }
@@ -146,17 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e053cedb888035c6",
+  "active": "3f111155c0374828",
   "lastOpenFiles": [
-    "412 project notes/Mental Health/Notes on Papers/Using Product, Processes and Gamifcation to Motivate users for Positive Habit Formation.md",
-    "Pasted image 20231026142517.png",
-    "412 project notes/Medical/Posture/Devices.md",
-    "Pasted image 20231026142024.png",
-    "412 project notes/Medical/Posture/Research.md",
-    "Pasted image 20231026142553.png",
-    "412 project notes/Terms/wearable devices.md",
-    "412 project notes/Terms/self-control.md",
+    "412 project notes/Medical/Drug Adherence/Devices.md",
     "412 project notes/Habit.md",
+    "412 project notes/Medical/Posture.md",
+    "412 project notes/Medical/Drug Adherence/Research.md",
+    "412 project notes/Medical/Untitled",
+    "412 project notes/Terms/wearable devices.md",
+    "412 project notes/Medical/Posture/Research.md",
+    "412 project notes/Medical/Posture/Devices.md",
+    "412 project notes/Images/Pasted image 20231026142517.png",
+    "412 project notes/Images",
+    "412 project notes/Images/Pasted image 20231026142553.png",
+    "412 project notes/Medical/Posture/Untitled.canvas",
+    "412 project notes/Medical/Sleep/To fill out.md",
+    "412 project notes/Mental Health/Notes on Papers/Using Product, Processes and Gamifcation to Motivate users for Positive Habit Formation.md",
+    "Pasted image 20231026142024.png",
+    "412 project notes/Terms/self-control.md",
     "412 project notes/Medical/Posture/Devices",
     "412 project notes/Medical/Posture/Research/Devices",
     "412 project notes/Medical/Posture/Research",
