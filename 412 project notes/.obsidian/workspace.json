@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "49d514466816859d",
+        "id": "849c0faf305cf91f",
         "type": "tabs",
         "children": [
           {
-            "id": "ef4004344057730f",
+            "id": "7dab5d2d19c49baa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terms/aware.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bce242f386a6aa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mental Health/Mental Health & Habits Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59549f4aa06c6219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terms/behavior.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e963e13ad01c7c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/HCI.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20231030091834.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20231030091834.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Images/Pasted image 20231030091834.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,50 +138,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f52347277f4d2461",
+  "active": "7dab5d2d19c49baa",
   "lastOpenFiles": [
-    "Physical Exercise /Exercise Apps/Research.md",
-    "Physical Exercise /Wearable Activity Trackers/Systems.md",
-    "Images/Pasted image 20231030092713.png",
-    "Images/Pasted image 20231030092624.png",
-    "Images/Pasted image 20231030091834.png",
+    "Concepts/casual information visualization.md",
     "Physical Exercise /Exercise Apps/Systems.md",
-    "Images/Pasted image 20231030090108.png",
+    "Physical Exercise /Exercise Apps/Research.md",
+    "Mental Health/Notes on Papers/HabitStar An Interactive Ambient Lighting to Help Users Improve Habits.md",
+    "Mental Health/Notes on Papers/A Soma Design Exploration on Sensing Non-habitual Breathing.md",
+    "Medical/Posture/Research.md",
+    "Medical/Drug Adherence/Systems.md",
+    "Medical/Drug Adherence/Research.md",
+    "Pasted image 20231029171533.png.md",
+    "Physical Exercise /Wearable Activity Trackers/Systems.md",
     "Physical Exercise /Wearable Activity Trackers/Research.md",
     "Physical Exercise /Virtual Reality/Systems.md",
-    "Images/Pasted image 20231030091007.png",
-    "Images/Pasted image 20231030090629.png",
-    "Images/Pasted image 20231030090504.png",
     "Physical Exercise /Virtual Reality/Research.md",
-    "Concepts/casual information visualization.md",
-    "Terms/aware.md",
-    "Terms/behavior.md",
-    "Mental Health/Mental Health & Habits Overview.md",
-    "Images/Pasted image 20231030085436.png",
-    "Images/Pasted image 20231030085853.png",
-    "Images/Pasted image 20231030085501.png",
-    "Medical/Posture/Systems.md",
-    "Medical/Drug Adherence/Systems.md",
+    "Pasted image 20231029171610.png.md",
     "Physical Exercise /Src papers/Astrojumper_Motivating_Exercise_with_an_Immersive_.pdf",
-    "Mental Health/Notes on Papers/A Soma Design Exploration on Sensing Non-habitual Breathing.md",
+    "Images/Astrojumper.png",
+    "Images/RidewithGPS2.png",
+    "Images/Strava Features2.png",
+    "Images/Wearable Activity Trackers.png",
+    "Images/Coros2.png",
+    "Images/Coros.png",
+    "Images/Fitbit.png",
+    "Images/Supernatural.png",
+    "Images/FitXR2.png",
+    "Images/FitXR.png",
+    "Images/Pasted image 20231029164450.png.md",
+    "workout intensity.md",
     "Concepts/HCI.md",
-    "Habit.md",
-    "ReadMe.md",
-    "Mental Health/Notes on Papers/HabitStar An Interactive Ambient Lighting to Help Users Improve Habits.md",
-    "Mental Health/Notes on Papers/Self-Control in Cyberspace.md",
-    "Terms/self-control.md",
+    "Medical/Posture/Systems.md",
+    "Terms/motivation.md",
+    "Terms/Social Network.md",
+    "Terms/Challenges.md",
+    "Terms/Goal Setting.md",
     "Terms/achievement.md",
-    "Mental Health/Actual Papers/Untitled.md",
-    "Mental Health/Notes on Papers/Using Product, Processes and Gamifcation to Motivate users for Positive Habit Formation.md",
-    "Concepts/Untitled.md",
+    "Terms/self-control.md",
+    "Terms/behavior.md",
+    "Terms/aware.md",
     "Concepts",
     "Habits",
     "Other",
     "Excersise",
     "Addiction",
     "Nutrition",
-    "aware.md",
-    "Terms/Untitled.md",
     "Untitled.canvas",
     "Mental Health/Src papers/Images",
     "Mental Health/Src papers/chi2014_eun.pdf",
