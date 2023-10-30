@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "412 project notes/Medical/Drug Adherence/Research.md",
+                "file": "412 project notes/Medical/Posture/Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "412 project notes/Medical/Drug Adherence/Research.md",
+                "file": "412 project notes/Medical/Posture/Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "412 project notes/Medical/Drug Adherence/Research.md",
+                "file": "412 project notes/Medical/Posture/Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "412 project notes/Medical/Drug Adherence/Research.md"
+                "file": "412 project notes/Medical/Posture/Research.md"
               }
             }
           }
@@ -146,21 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f111155c0374828",
+  "active": "48aaddc03a019380",
   "lastOpenFiles": [
-    "412 project notes/Medical/Drug Adherence/Devices.md",
+    "412 project notes/Medical/Posture/Systems.md",
+    "412 project notes/Images/LumoLift.png",
+    "412 project notes/Medical/Posture/Research.md",
+    "412 project notes/Images/Upright1.png",
+    "412 project notes/Images/Upright2.png",
+    "412 project notes/Images/Posture Sensor Belt.png",
+    "412 project notes/Images/Posture_Sensor_Vest.png",
+    "Pasted image 20231029191618.png",
+    "Pasted image 20231029182934.png",
+    "412 project notes/Medical/Drug Adherence/Research.md",
+    "412 project notes/Medical/Sleep/Research.md",
+    "412 project notes/Medical/Sleep/Systems.md",
+    "412 project notes/Medical/Drug Adherence/Systems.md",
+    "412 project notes/ReadMe.md",
     "412 project notes/Habit.md",
     "412 project notes/Medical/Posture.md",
-    "412 project notes/Medical/Drug Adherence/Research.md",
     "412 project notes/Medical/Untitled",
     "412 project notes/Terms/wearable devices.md",
-    "412 project notes/Medical/Posture/Research.md",
-    "412 project notes/Medical/Posture/Devices.md",
-    "412 project notes/Images/Pasted image 20231026142517.png",
     "412 project notes/Images",
-    "412 project notes/Images/Pasted image 20231026142553.png",
     "412 project notes/Medical/Posture/Untitled.canvas",
-    "412 project notes/Medical/Sleep/To fill out.md",
     "412 project notes/Mental Health/Notes on Papers/Using Product, Processes and Gamifcation to Motivate users for Positive Habit Formation.md",
     "Pasted image 20231026142024.png",
     "412 project notes/Terms/self-control.md",
