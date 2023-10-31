@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "9d21ec600e0dd1d7",
+    "id": "d475906cec98cd12",
     "type": "split",
     "children": [
       {
-        "id": "749fa0fac889133d",
+        "id": "76a8f58f873d0f1d",
         "type": "tabs",
         "children": [
           {
-            "id": "b1eb40903fb1b37f",
+            "id": "e10e39d12f2a6054",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "412 project notes/Nutrition/Eating/Research.md",
+                "file": "412 project notes/Mental Health/Breathing/Research on Soma Breathing.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "73dbe9ac1edfdab8",
+    "id": "c03e671a7a48dce7",
     "type": "split",
     "children": [
       {
-        "id": "90c84efbdd962faf",
+        "id": "a6ca6be626674730",
         "type": "tabs",
         "children": [
           {
-            "id": "cb8ba4f63187dfcd",
+            "id": "48aaddc03a019380",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "a5b5830f1bae566c",
+            "id": "8c41a083daba3deb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "074c4266078a7596",
+            "id": "175e9d68b3debb9f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "0e3649a7eaa99a96",
+    "id": "e43d50cb07aafbaa",
     "type": "split",
     "children": [
       {
-        "id": "ef6a6933cc9a564f",
+        "id": "2d9a7f62c573890d",
         "type": "tabs",
         "children": [
           {
-            "id": "ceea90a05eea8783",
+            "id": "6d65c4d18d0a3370",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "412 project notes/Nutrition/Eating/Research.md",
+                "file": "412 project notes/Mental Health/Breathing/Research on Soma Breathing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "54db908b8dfa03eb",
+            "id": "d8d534d791236deb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "412 project notes/Nutrition/Eating/Research.md",
+                "file": "412 project notes/Mental Health/Breathing/Research on Soma Breathing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4333642f1dc02670",
+            "id": "60443f255f27aa74",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "d071d800f60abf6a",
+            "id": "ceabd99f4e0e9da3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "412 project notes/Nutrition/Eating/Research.md"
+                "file": "412 project notes/Mental Health/Breathing/Research on Soma Breathing.md"
               }
             }
           }
@@ -146,52 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1eb40903fb1b37f",
+  "active": "e10e39d12f2a6054",
   "lastOpenFiles": [
-    "412 project notes/Images/Fork Results.png",
-    "412 project notes/Nutrition/Eating/Research.md",
-    "412 project notes/Nutrition/Eating/Systems.md",
-    "412 project notes/Images/Panda.png",
-    "412 project notes/Nutrition/Hydration/Research.md",
-    "412 project notes/Physical Exercise /Virtual Reality/Research.md",
-    "412 project notes/Physical Exercise /Wearable Activity Trackers/Research.md",
-    "412 project notes/Physical Exercise /Exercise Apps/Research.md",
-    "412 project notes/Images/Food tray.png",
-    "412 project notes/Concepts/persuasive computing.md",
-    "412 project notes/Nutrition/Hydration/Systems.md",
-    "412 project notes/Images/Sensor Fork.jpeg",
-    "Pasted image 20231030182820.png",
-    "412 project notes/Concepts/classical conditioning.md",
-    "412 project notes/Images/Ecomeal.png",
-    "412 project notes/Physical Exercise /Wearable Activity Trackers/Systems.md",
-    "412 project notes/Physical Exercise /Virtual Reality/Systems.md",
-    "412 project notes/Concepts/Robert Plutchik’s Psycho-evolutionary Theory of Basic Emotions.md",
-    "412 project notes/Images/Disruptabottle Questionaire Results.png",
-    "412 project notes/Terms/negative reinforcement.md",
-    "412 project notes/Concepts/usability testing.md",
-    "412 project notes/Concepts/human centered programming.md",
-    "412 project notes/Concepts/HCI.md",
-    "412 project notes/Mental Health/Breathing/Research on Soma Breathing.md",
-    "412 project notes/Concepts/casual information visualization.md",
-    "412 project notes/Physical Exercise /Exercise Apps/Systems.md",
-    "412 project notes/Images/Disruptabottle Steps.png",
-    "412 project notes/Medical/Sleep/Research.md",
-    "412 project notes/Medical/Posture/Research.md",
+    "412 project notes/Mental Health/Breathing/The Breathing Shell Prototype.md",
     "412 project notes/Medical/Drug Adherence/Research.md",
-    "412 project notes/Mental Health/Visual/Research.md",
-    "412 project notes/Terms/motivation.md",
-    "412 project notes/Images/LumoLift.png",
-    "412 project notes/Images/Second Prototype Disruptabottle.png",
-    "412 project notes/Physical Exercise /Src papers/TandemTrack Shaping Consistent Exercise Experience by Complementing a Mobile App with a Smart Speaker.pdf",
-    "412 project notes/Physical Exercise /Src papers/Kudos make you run! How runners influence each other on the online social network Strava.pdf",
-    "412 project notes/Physical Exercise /Src papers/Effectiveness of wearable activity trackers to increase physical activity and improve health.pdf",
-    "412 project notes/Physical Exercise /Src papers/Astrojumper_Motivating_Exercise_with_an_Immersive_.pdf",
+    "412 project notes/Images/Ellegird Box.png",
+    "412 project notes/Images/Ellegrid Smartphone App.png",
+    "Pasted image 20231031092605.png",
+    "412 project notes/Medical/Drug Adherence/Systems.md",
+    "412 project notes/Images/Smart Medication Device.png",
+    "412 project notes/Images/Smart Dispenser.png",
+    "412 project notes/ReadMe.md",
+    "412 project notes/Images/Smart Medication Device Design.png",
+    "Pasted image 20231031085625.png",
+    "412 project notes/Medical/Sleep/Research.md",
     "412 project notes/Medical/Posture/Systems.md",
-    "412 project notes/Nutrition/Hydration/Research",
-    "412 project notes/Nutrition/Eating/Systems",
-    "412 project notes/Nutrition/Eating/Untitled/Untitled",
-    "412 project notes/Nutrition/Eating/Research",
+    "412 project notes/Medical/Posture/Research.md",
+    "412 project notes/Medical/Sleep/Systems.md",
+    "412 project notes/Medical/Dental Care/Systems.md",
+    "412 project notes/Medical/Dental Care/Research.md",
+    "412 project notes/Images/Hungry Panda.png",
+    "412 project notes/Images/Quip_Toothbrush.png",
+    "412 project notes/Images/TruthBrush.png",
+    "412 project notes/Terms/negative reinforcement.md",
+    "412 project notes/Physical Exercise/Wearable Activity Trackers/Systems.md",
+    "412 project notes/Physical Exercise/Wearable Activity Trackers/Research.md",
+    "412 project notes/Physical Exercise/Wearable Activity Trackers",
+    "412 project notes/Physical Exercise/Virtual Reality/Systems.md",
+    "412 project notes/Physical Exercise/Virtual Reality/Research.md",
+    "412 project notes/Physical Exercise/Virtual Reality",
+    "412 project notes/Physical Exercise/Src papers/TandemTrack Shaping Consistent Exercise Experience by Complementing a Mobile App with a Smart Speaker.pdf",
+    "412 project notes/Physical Exercise/Src papers/Kudos make you run! How runners influence each other on the online social network Strava.pdf",
+    "412 project notes/Physical Exercise/Src papers/Effectiveness of wearable activity trackers to increase physical activity and improve health.pdf",
+    "412 project notes/Physical Exercise/Src papers/Astrojumper_Motivating_Exercise_with_an_Immersive_.pdf",
+    "412 project notes/Physical Exercise/Src papers",
+    "412 project notes/Physical Exercise/Exercise Apps/Systems.md",
+    "412 project notes/Physical Exercise/Exercise Apps/Research.md",
+    "412 project notes/Physical Exercise/Exercise Apps",
+    "412 project notes/Nutrition/Hydration/Systems.md",
+    "412 project notes/Nutrition/Hydration/Research.md",
+    "412 project notes/Nutrition/Eating/Systems.md",
+    "412 project notes/Nutrition/Eating/Research.md",
+    "412 project notes/Nutrition/Hydration",
     "412 project notes/Nutrition/Eating",
-    "412 project notes/Nutrition/Hydration"
+    "412 project notes/Concepts/usability testing.md",
+    "412 project notes/Concepts/persuasive computing.md",
+    "412 project notes/Concepts/human centered programming.md",
+    "412 project notes/Concepts/classical conditioning.md",
+    "412 project notes/Medical/Posture/Untitled.canvas"
   ]
 }
