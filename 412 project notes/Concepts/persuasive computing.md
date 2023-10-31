@@ -1,0 +1,1 @@
+To make the connectivity of devices in such a way that the connectivity is unobtrusive and always available for the user

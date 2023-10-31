@@ -1,0 +1,1 @@
+The process in which an automatic, conditioned response is paired with specific stimuli
