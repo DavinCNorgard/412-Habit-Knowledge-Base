@@ -3,7 +3,7 @@ Effectiveness of wearable activity trackers to increase physical activity and im
 
 **Summary**
 
-Wearable activity trackers have been found to increase habit formation and retention. For instance, wearable activity trackers promote building habits through [[Goal Setting]] and self-monitoring. Research has shown that wearable activity trackers promote physical activity and subsequently increase improved health metrics including BMI, reduction in blood pressure, and an increase in aerobic capacity.
+Wearable activity trackers ([[wearable devices]]) have been found to increase habit formation and retention. For instance, wearable activity trackers promote building habits through [[Goal Setting]] and self-monitoring. Research has shown that wearable activity trackers promote physical activity and subsequently increase improved health metrics including BMI, reduction in blood pressure, and an increase in aerobic capacity.
 
 **Research**
 

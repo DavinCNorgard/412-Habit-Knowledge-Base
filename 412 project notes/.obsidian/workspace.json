@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "849c0faf305cf91f",
+        "id": "0ba186a0adf22139",
         "type": "tabs",
         "children": [
           {
-            "id": "7dab5d2d19c49baa",
+            "id": "872692215f94979c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physical Exercise/Exercise Apps/Research.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physical Exercise/Exercise Apps/Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physical Exercise/Exercise Apps/Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physical Exercise/Exercise Apps/Research.md"
+              }
             }
           }
         ]
@@ -138,54 +146,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7dab5d2d19c49baa",
+  "active": "872692215f94979c",
   "lastOpenFiles": [
-    "Concepts/casual information visualization.md",
-    "Physical Exercise /Exercise Apps/Systems.md",
-    "Physical Exercise /Exercise Apps/Research.md",
-    "Mental Health/Notes on Papers/HabitStar An Interactive Ambient Lighting to Help Users Improve Habits.md",
-    "Mental Health/Notes on Papers/A Soma Design Exploration on Sensing Non-habitual Breathing.md",
-    "Medical/Posture/Research.md",
-    "Medical/Drug Adherence/Systems.md",
-    "Medical/Drug Adherence/Research.md",
-    "Pasted image 20231029171533.png.md",
+    "Physical Exercise/Virtual Reality/Research.md",
+    "Physical Exercise/Wearable Activity Trackers/Research.md",
+    "Physical Exercise/Exercise Apps/Research.md",
+    "Terms/wearable devices.md",
+    "Physical Exercise/Wearable Activity Trackers/Systems.md",
+    "Physical Exercise/Virtual Reality/Systems.md",
+    "Physical Exercise/Src papers/TandemTrack Shaping Consistent Exercise Experience by Complementing a Mobile App with a Smart Speaker.pdf",
+    "Physical Exercise/Src papers/Kudos make you run! How runners influence each other on the online social network Strava.pdf",
+    "Physical Exercise/Src papers/Effectiveness of wearable activity trackers to increase physical activity and improve health.pdf",
+    "Physical Exercise/Src papers/Astrojumper_Motivating_Exercise_with_an_Immersive_.pdf",
+    "Physical Exercise/Exercise Apps/Systems.md",
+    "Physical Exercise/Wearable Activity Trackers",
+    "Physical Exercise/Virtual Reality",
+    "Physical Exercise/Src papers",
+    "Physical Exercise/Exercise Apps",
+    "Physical Exercise",
     "Physical Exercise /Wearable Activity Trackers/Systems.md",
     "Physical Exercise /Wearable Activity Trackers/Research.md",
+    "Physical Exercise /Wearable Activity Trackers",
     "Physical Exercise /Virtual Reality/Systems.md",
     "Physical Exercise /Virtual Reality/Research.md",
-    "Pasted image 20231029171610.png.md",
-    "Physical Exercise /Src papers/Astrojumper_Motivating_Exercise_with_an_Immersive_.pdf",
-    "Images/Astrojumper.png",
-    "Images/RidewithGPS2.png",
-    "Images/Strava Features2.png",
-    "Images/Wearable Activity Trackers.png",
-    "Images/Coros2.png",
-    "Images/Coros.png",
-    "Images/Fitbit.png",
-    "Images/Supernatural.png",
-    "Images/FitXR2.png",
-    "Images/FitXR.png",
-    "Images/Pasted image 20231029164450.png.md",
-    "workout intensity.md",
-    "Concepts/HCI.md",
-    "Medical/Posture/Systems.md",
-    "Terms/motivation.md",
-    "Terms/Social Network.md",
-    "Terms/Challenges.md",
-    "Terms/Goal Setting.md",
-    "Terms/achievement.md",
-    "Terms/self-control.md",
-    "Terms/behavior.md",
-    "Terms/aware.md",
-    "Concepts",
-    "Habits",
-    "Other",
-    "Excersise",
-    "Addiction",
-    "Nutrition",
-    "Untitled.canvas",
-    "Mental Health/Src papers/Images",
-    "Mental Health/Src papers/chi2014_eun.pdf",
-    "Mental Health/Actual Papers/chi2014_eun.pdf.crdownload"
+    "Physical Exercise /Exercise Apps/Systems.md",
+    "Physical Exercise /Exercise Apps/Research.md",
+    "Addiction/Src/Wearable smoking device.jpg",
+    "Addiction/Src/Tattoo based Alcohol system.gif",
+    "Addiction/Src/QuitBit.png",
+    "Addiction/Src/Mindway AI.jpg",
+    "Addiction/Src/Gambling data flow.png",
+    "Addiction/Src/Alcohol monitoring ankle system.png",
+    "Addiction/Gambling/Systems.md",
+    "Addiction/Gambling/Research.md",
+    "Addiction/Smoking/Systems.md",
+    "Addiction/Smoking/Research.md",
+    "Addiction/Drinking/Systems.md",
+    "Addiction/Drinking/Research.md",
+    "Mental Health/Visual/Systems.md",
+    "Mental Health/Visual/Research.md",
+    "Mental Health/Src/Images/Pasted image 20231029100628.png",
+    "Mental Health/Src/Images/Pasted image 20231029092556.png",
+    "Mental Health/Src/Images/Pasted image 20231025201449.png",
+    "Mental Health/Src/Images/Pasted image 20231025165711.png",
+    "Mental Health/Breathing/The Breathing Shell Prototype.md",
+    "Mental Health/Breathing/Research on Soma Breathing.md",
+    "Mental Health/Notes on Papers/Using Product, Processes and Gamifcation to Motivate users for Positive Habit Formation.md",
+    "Mental Health/Notes on Papers/Self-Control in Cyberspace.md",
+    "Mental Health/Notes on Papers/HabitStar An Interactive Ambient Lighting to Help Users Improve Habits.md",
+    "Untitled.canvas"
   ]
 }
