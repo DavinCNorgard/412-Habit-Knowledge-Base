@@ -14,6 +14,6 @@
 ## Hypotheses
 
 - Self-recording data in terms of [[achievement]]s will help users recognize the progress toward their goals. Additionally, this will increase users [[aware]] of their habits.
-- Displaying data through ambient light focuses the user on the current state of their habits. Comparing user data helps set feasible goals, and deters impractical goal setting that demotivates users.
+- Displaying data through ambient light focuses the user on the current state of their habits. Comparing user data helps set feasible [[Challenges]], and deters impractical [[Goal setting]] that hinders user [[motivation]].
 
 SRC: https://dl.acm.org/doi/10.1145/2702613.2732782

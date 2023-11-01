@@ -1,12 +1,12 @@
 
 ## System Design of HabitStar
 
-HabitStar is an interactive ambient lighting system designed to help users improve their habits. 
+HabitStar is an interactive ambient lighting system designed to help users improve their habits and [[behavior]]. 
 
 - The design has three main components:
 	1. Star 
 	2. network server
-	3. application
+	3. [[smartphone app]]
 
 ![[Pasted image 20231025152229.png]]
 #### star
@@ -22,7 +22,7 @@ HabitStar is an interactive ambient lighting system designed to help users impro
 
 #### [[smartphone app]]lication
 
-- Allows the users to change settings such as star color, goals, and add or remove habits.
+- Allows the users to change settings such as star color, [[Goal Setting]], and add or remove habits.
 - Users can use the app to document progress.
 - Has access to the users data, shows historical habit data.
 
