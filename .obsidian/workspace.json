@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "76a8f58f873d0f1d",
+        "id": "ab12dd2721b0ede5",
         "type": "tabs",
         "children": [
           {
-            "id": "e10e39d12f2a6054",
+            "id": "2af960ad9b484cfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "412 project notes/Mental Health/Breathing/Research on Soma Breathing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "412 project notes/Mental Health/Breathing/Research on Soma Breathing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "412 project notes/Mental Health/Breathing/Research on Soma Breathing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "412 project notes/Mental Health/Breathing/Research on Soma Breathing.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,53 +138,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e10e39d12f2a6054",
+  "active": "2af960ad9b484cfc",
   "lastOpenFiles": [
-    "412 project notes/Mental Health/Breathing/The Breathing Shell Prototype.md",
-    "412 project notes/Medical/Drug Adherence/Research.md",
-    "412 project notes/Images/Ellegird Box.png",
-    "412 project notes/Images/Ellegrid Smartphone App.png",
+    "Appendix/Terms/self-control.md",
+    "Habits Related to Health/Mental Health/Visual/Systems - visual.md",
+    "Appendix/Concepts/casual information visualization.md",
+    "Habits Related to Health/Physical Exercise/Virtual Reality/Research - VR.md",
+    "Habits Related to Health/Physical Exercise/Virtual Reality/Systems - VR.md",
+    "Habits Related to Health/Physical Exercise/Wearable Activity Trackers/Systems - Wearable Activity Trackers.md",
+    "Habits Related to Health/Physical Exercise/Wearable Activity Trackers/Research - Wearable Activity Trackers.md",
+    "Habits Related to Health/Physical Exercise/Exercise Apps/Systems - Exercise Apps.md",
+    "Habits Related to Health/Physical Exercise/Exercise Apps/Research - Exercise Apps.md",
+    "Habits Related to Health/Nutrition/Hydration/Research -hydration.md",
+    "Habits Related to Health/Nutrition/Eating/Systems -eating.md",
+    "Habits Related to Health/Nutrition/Hydration/Systems - hydration.md",
+    "Habits Related to Health/Nutrition/Eating/Research -eating.md",
+    "Habits Related to Health/Mental Health/Visual/Research - visual.md",
+    "Habits Related to Health/Mental Health/Breathing/Systems - breathing.md",
+    "Habits Related to Health/Mental Health/Breathing/Research -breathing.md",
+    "Habits Related to Health/Medical/Posture/Systems - posture.md",
+    "Habits Related to Health/Medical/Posture/Research - posture.md",
+    "Habits Related to Health/Medical/Drug Adherence/Systems - drug adherence.md",
+    "Habits Related to Health/Medical/Drug Adherence/Research - drug adherence.md",
+    "Habits Related to Health/Medical/Dental Care/Systems - dental care.md",
+    "Habits Related to Health/Medical/Dental Care/Research - dental care.md",
+    "Habits Related to Health/Addiction/Smoking/Systems - smoking.md",
+    "Appendix/Terms/motivation.md",
+    "Habits Related to Health/Addiction/Smoking/Research - smoking.md",
+    "Appendix/Terms/sensors.md",
+    "Habits Related to Health/Physical Exercise/Src papers/Effectiveness of wearable activity trackers to increase physical activity and improve health.pdf",
+    "Habits Related to Health/Physical Exercise/Src papers/TandemTrack Shaping Consistent Exercise Experience by Complementing a Mobile App with a Smart Speaker.pdf",
+    "Habits Related to Health/Physical Exercise/Src papers/Astrojumper_Motivating_Exercise_with_an_Immersive_.pdf",
+    "Appendix/Images/Pasted image 20231025152229.png",
+    "Appendix/Images/Pasted image 20231029092556.png",
+    "Appendix/Images/Pasted image 20231029100628.png",
+    "Appendix/Images/Alcohol monitoring ankle system.png",
+    "Appendix",
+    "Check If Keeping",
+    "Appendix/Images/Ellegird Box.png",
+    "Appendix/Images/Ellegrid Smartphone App.png",
     "Pasted image 20231031092605.png",
-    "412 project notes/Medical/Drug Adherence/Systems.md",
-    "412 project notes/Images/Smart Medication Device.png",
-    "412 project notes/Images/Smart Dispenser.png",
-    "412 project notes/ReadMe.md",
-    "412 project notes/Images/Smart Medication Device Design.png",
-    "Pasted image 20231031085625.png",
-    "412 project notes/Medical/Sleep/Research.md",
-    "412 project notes/Medical/Posture/Systems.md",
-    "412 project notes/Medical/Posture/Research.md",
-    "412 project notes/Medical/Sleep/Systems.md",
-    "412 project notes/Medical/Dental Care/Systems.md",
-    "412 project notes/Medical/Dental Care/Research.md",
-    "412 project notes/Images/Hungry Panda.png",
-    "412 project notes/Images/Quip_Toothbrush.png",
-    "412 project notes/Images/TruthBrush.png",
-    "412 project notes/Terms/negative reinforcement.md",
-    "412 project notes/Physical Exercise/Wearable Activity Trackers/Systems.md",
-    "412 project notes/Physical Exercise/Wearable Activity Trackers/Research.md",
-    "412 project notes/Physical Exercise/Wearable Activity Trackers",
-    "412 project notes/Physical Exercise/Virtual Reality/Systems.md",
-    "412 project notes/Physical Exercise/Virtual Reality/Research.md",
-    "412 project notes/Physical Exercise/Virtual Reality",
-    "412 project notes/Physical Exercise/Src papers/TandemTrack Shaping Consistent Exercise Experience by Complementing a Mobile App with a Smart Speaker.pdf",
-    "412 project notes/Physical Exercise/Src papers/Kudos make you run! How runners influence each other on the online social network Strava.pdf",
-    "412 project notes/Physical Exercise/Src papers/Effectiveness of wearable activity trackers to increase physical activity and improve health.pdf",
-    "412 project notes/Physical Exercise/Src papers/Astrojumper_Motivating_Exercise_with_an_Immersive_.pdf",
-    "412 project notes/Physical Exercise/Src papers",
-    "412 project notes/Physical Exercise/Exercise Apps/Systems.md",
-    "412 project notes/Physical Exercise/Exercise Apps/Research.md",
-    "412 project notes/Physical Exercise/Exercise Apps",
-    "412 project notes/Nutrition/Hydration/Systems.md",
-    "412 project notes/Nutrition/Hydration/Research.md",
-    "412 project notes/Nutrition/Eating/Systems.md",
-    "412 project notes/Nutrition/Eating/Research.md",
-    "412 project notes/Nutrition/Hydration",
-    "412 project notes/Nutrition/Eating",
-    "412 project notes/Concepts/usability testing.md",
-    "412 project notes/Concepts/persuasive computing.md",
-    "412 project notes/Concepts/human centered programming.md",
-    "412 project notes/Concepts/classical conditioning.md",
+    "Appendix/Images/Smart Medication Device.png",
+    "Appendix/Images/Smart Dispenser.png",
+    "Appendix/Images/Smart Medication Device Design.png",
+    "Habits Related to Health/Physical Exercise/Wearable Activity Trackers",
+    "Habits Related to Health/Physical Exercise/Virtual Reality",
+    "Habits Related to Health/Physical Exercise/Src papers/Kudos make you run! How runners influence each other on the online social network Strava.pdf",
+    "Habits Related to Health/Physical Exercise/Src papers",
+    "Habits Related to Health/Physical Exercise/Exercise Apps",
     "412 project notes/Medical/Posture/Untitled.canvas"
   ]
 }
