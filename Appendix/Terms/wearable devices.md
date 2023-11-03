@@ -1,11 +1,1 @@
-Devices that are worn on the body
-
-wearable
-
-wearable devices 
-
-wearable
-
-wearable device
-
-wearable devices
+A wearable device is any kind of electronic device designed to be worn on the user's body
