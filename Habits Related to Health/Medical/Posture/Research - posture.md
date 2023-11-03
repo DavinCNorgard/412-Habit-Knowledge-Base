@@ -28,7 +28,7 @@ https://pubmed.ncbi.nlm.nih.gov/31652647/
 
 **Wearable Vest**
 
-Researchers are designing a vest to monitor posture habits in elderly patients. They are placing [[sensors]]in key positions on the vest, with the data being fed into a MatLab program that analyses the sensor data. While the research is primarily dedicated to the monitoring portion, the researchers state that ongoing work can be made to develop a [[smartphone app]] which can alert either a person's medical team and/or the wearer themselves. 
+Researchers are designing a vest to monitor posture habits in elderly patients. They are placing [[sensors]] in key positions on the vest, with the data being fed into a MatLab program that analyses the sensor data. While the research is primarily dedicated to the monitoring portion, the researchers state that ongoing work can be made to develop a [[smartphone app]] which can alert either a person's medical team and/or the wearer themselves. 
 
 ![[Posture_Sensor_Vest.png]]
 
