@@ -1,17 +1,1 @@
-sensors
-
-sensors
-
-sensors 
-
-sensors
-
-sensors
-
-sensor
-
-sensors
-
-Sensors
-
-sensors
+A device which detects or measures a physical property and responds to it.
