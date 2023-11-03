@@ -2,7 +2,7 @@ Kudos make you run! How runners influence each other on the online social networ
 
 **Summary**
 
-Strava is a mobile application designed for activity tracking and is an example of a technology for augmenting physical activity habit formation and retention. Strava is the largest athlete social network in the world and features a built-in social network, reward/challenges, and a map/route system. This app works well for building exercise habits as it allows people to add their friends and peers to their network where you can give each other kudos on activities. In addition, communities, challenges, and events give people support and motivation for physical activity. Strava’s design philosophy of providing social support through an online community and the gamification of exercise through challenges/kudos has been well-studied and can positively influence exercise habits. The results show that runners' activity levels are positively influenced by Kudos numbers. 
+Strava is a [[smartphone app]]lication designed for activity tracking and is an example of a technology for augmenting physical activity habit formation and retention. Strava is the largest athlete social network in the world and features a built-in social network, reward/challenges, and a map/route system. This app works well for building exercise habits as it allows people to add their friends and peers to their network where you can give each other kudos on activities. In addition, communities, challenges, and events give people support and [[motivation]] for physical activity. Strava’s design philosophy of providing social support through an online community and the gamification of exercise through challenges/kudos has been well-studied and can positively influence exercise habits. The results show that runners' activity levels are positively influenced by Kudos numbers. 
 
 ![[Strava_post.png]]
 
@@ -34,7 +34,9 @@ Strava is a mobile application that tracks user's activities and is available on
     
 **Exercise Habits**
 
-The Strava app contains many features that have been well-researched in [[HCI]] to retain exercise habits including [[goal setting]], [[Social Network]] and [[challenges]] that have been well researched. There is a large amount of research done on how social networks can influence exercise habits and healthy behaviours. Social networks can provide social support through information support, self-esteem support and instrumental support. Informational support is the act of guiding and giving advice, while self-esteem support is the act of boosting one's confidence, and instrumental support is the act of providing technical advice and coaching. Social comparisons are also a powerful phenomenon for exercise habit retention. The “Kudos” or the like button in Strava has been argued to make physical exercise into a social event. Research in the fields of social support and gamification shows that social tools like “Kudos” can increase exercise habits.
+There is a large amount of research done on how social networks can influence exercise habits and healthy behaviours. Social networks can provide social support through information support, self-esteem support and instrumental support. Informational support is the act of guiding and giving advice, while self-esteem support is the act of boosting one's confidence, and instrumental support is the act of providing technical advice and coaching. Social comparisons are also a powerful phenomenon for exercise habit retention. 
+
+The Strava app contains many features that have been well-researched in [[HCI]] to retain exercise habits including [[Goal Setting]], [[Social Network]] and [[Challenges]] that have been well researched. The “Kudos” or the like button in Strava has been argued to make physical exercise into a social event. Research in the fields of social support and gamification shows that social tools like “Kudos” can increase exercise habits.
 
 
 ![[Influence on running performance.png]]
@@ -44,7 +46,7 @@ Complementing a Mobile App with a Smart Speaker
 
 **Summary**
 
-TandemTrack is a system that combines a mobile app and a smart speaker for daily exercise support. By utilizing the Alexa Skills Kit, they could design a voice interface for providing exercise feedback and reminders. Research was done over four weeks where 22 participants were observed to determine how voice interaction with a smart speaker can enhance the mobile app experience. The study's findings showed several participants favoured voice interaction for its hand-free ability during exercise. In addition, several participants found that the voice interaction reduced distraction which allowed them to focus more on their exercise. For reminders, the results showed that participants tended to ignore the mobile reminder, while users who had the voice option sometimes missed the reminder due to proximity. Therefore, future prototypes were recommended to have proximity-based reminders. This research showed that future prototypes of mobile apps combined with smart speakers may help users retain physical exercise habits by providing voice feedback and reminders.
+TandemTrack is a system that combines a mobile app and a smart speaker for daily exercise support. By utilizing the Alexa Skills Kit, they could design a voice interface for providing exercise [[feedback]] and reminders/ [[alerts]]. Research was done over four weeks where 22 participants were observed to determine how voice interaction with a smart speaker can enhance the mobile app experience. The study's findings showed several participants favoured voice interaction for its hand-free ability during exercise. In addition, several participants found that the voice interaction reduced distraction which allowed them to focus more on their exercise. For reminders, the results showed that participants tended to ignore the mobile reminder, while users who had the voice option sometimes missed the reminder due to proximity. Therefore, future prototypes were recommended to have proximity-based reminders. This research showed that future prototypes of mobile apps combined with smart speakers may help users retain physical exercise habits by providing voice feedback and reminders.
 
 **Related Work**
 
@@ -59,12 +61,12 @@ The research question was whether the addition of Alexa voice interaction to a m
 
 **Design Process**
 
-TandemTrack was created using Kotlin, Alexa Skills Kit, and Amazon Web Service. The design centered on easy synchronization between devices via Google Firebase. It supported features like exercise tracking, feedback review, and reminders.
+TandemTrack was created using Kotlin, Alexa Skills Kit, and Amazon Web Service. The design centred on easy synchronization between devices via Google Firebase. It supported features like exercise tracking, feedback review, and reminders, all accessible through both the mobile app and voice commands.
 
 ![[Tandem Track 2.png]]
 **Exercise Habits**
 
-The study explored how different interaction methods might support exercise habits. It found that while the voice-activated assistant was convenient for some users, while others preferred the interface of the mobile app. The study also noted the role of social context and technical challenges like voice recognition errors in the user experience. The results show that the integration of smart speakers with mobile apps may assist users in maintaining their physical exercise habits by offering voice-based feedback and reminders.
+The study explored how different interaction modalities might support exercise habits. It found that while the voice-activated assistant was convenient for some users, others preferred the tactile interface of the mobile app, highlighting the importance of personal preference. The study also noted the role of social context and technical challenges like voice recognition errors in the user experience. The results show that the integration of smart speakers with mobile apps in upcoming prototypes may assist users in maintaining their physical exercise habits by offering voice-based feedback and reminders.
 
 **References**
 
