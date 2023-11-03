@@ -7,7 +7,7 @@ The flip side to this mental energy saving technique, is that many of our though
 https://www.britannica.com/topic/habit-behaviour
 
 
-We will focus our vault on looking into computing systems dealing with habits related to health. Health is a wide and far reaching topic, and we definitely do not have an exhaustive list of all health categories. However, we have categorized or sub topics as follows: 
+Our vault will focus on computing systems dealing with health related habits. Health is a wide and far reaching topic, and we definitely do not have an exhaustive list of all health categories. However, we have categorized our sub topics as follows: 
 
 Addiction
 	Drinking
