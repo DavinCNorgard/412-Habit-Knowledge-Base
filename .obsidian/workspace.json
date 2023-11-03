@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "93c27a05864c823e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Habits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c1e3c39adf157502",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Habits Related to Health/Mental Health/Visual/Research - visual.md",
+                "file": "Habits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Habits Related to Health/Mental Health/Visual/Research - visual.md",
+                "file": "Habits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Habits Related to Health/Mental Health/Visual/Research - visual.md"
+                "file": "Habits.md"
               }
             }
           }
@@ -195,10 +207,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04e008591ec51dd2",
+  "active": "93c27a05864c823e",
   "lastOpenFiles": [
-    "Check If Keeping/ReadMe.md",
     "Habits Related to Health/Mental Health/Visual/Research - visual.md",
+    "Habits.md",
+    "Check If Keeping/ReadMe.md",
     "Habits Related to Health/Mental Health/Visual/Systems - visual.md",
     "Appendix/Terms/smartphone app.md",
     "Habits Related to Health/Mental Health/Breathing/Research -breathing.md",
@@ -222,7 +235,6 @@
     "Appendix/Terms/VR.md",
     "Check If Keeping/Habit.md",
     "Appendix/Terms/self-control.md",
-    "Appendix/Concepts/casual information visualization.md",
     "Habits Related to Health/Physical Exercise/Src papers/Effectiveness of wearable activity trackers to increase physical activity and improve health.pdf",
     "Habits Related to Health/Physical Exercise/Src papers/TandemTrack Shaping Consistent Exercise Experience by Complementing a Mobile App with a Smart Speaker.pdf",
     "Habits Related to Health/Physical Exercise/Src papers/Astrojumper_Motivating_Exercise_with_an_Immersive_.pdf",
