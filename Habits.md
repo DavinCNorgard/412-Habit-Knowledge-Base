@@ -11,26 +11,39 @@ Our vault will focus on computing systems dealing with health related habits. He
 
 Addiction
 	Drinking
+ 		[[Drinking Systems]] and [[Drinking Research]]
 	Gambling
+ 		[[Gambling Systems]] and [[Gambling Research]]
 	Smoking
+ 		[[Smoking Systems]] and [[Smoking Research]]
 	
 Medical
 	Dental Care
+ 		[[Dental Care Systems]] and [[Dental Care Research]]
 	Drug Adherence
+ 		[[Drug Systems]] and [[Drug Research]]
 	Posture
+ 		[[Posture Systems]] and [[Posture Research]]
 
 Mental Health
 	Breathing
+ 		[[Breathing Systems]] and [[Breathing Research]]
 	Visual
+ 		[[Visual Systems]] and [[Visual Research]]
 	
 Nutrition
 	Eating
+ 		[[Eating Systems]] and [[Eating Research]]
 	Hydration
+ 		[[Hydration Systems]] and [[Hydration Research]]
 
 Physical Exercise
 	Exercise Apps
+ 		[[Exercise Apps Systems]] and [[Exercise Apps Research]]
 	Virtual Reality
+ 		[[Virtual Reality Systems]] and [[Virtual Reality Research]]
 	Wearable Activity Trackers
+ 		[[Wearable Activity Trackers Systems]] and [[Wearable Activity Trackers Research]]
 
 
 
